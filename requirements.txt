@@ -1,3 +1,12 @@
 pykernel
 langchain
 collection
+openai
+faiss-cpu
+tiktoken
+rapidocr-onnxruntime
+dotenv
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-core
