@@ -16,3 +16,5 @@ pypdf
 sentence-transformers
 langchain-huggingface
 huggingface-hub
+haystack-ai
+datasets
